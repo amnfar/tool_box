@@ -1,0 +1,3 @@
+conda2 install -c plotly plotly==3.10.0
+conda2 install -c plotly plotly==3.10.0 plotly-orca
+
